@@ -1,7 +1,7 @@
 # Developer - Md Arif Raza 
 
 # Task
-> Payment Gateway Integration - https://mdaarifraza03.github.io/Payment-Gateway-integration/n/
+> Payment Gateway Integration - https://mdaarif03.github.io/PaymentGetway/
 
 ## Table of contents
 * Homepage
